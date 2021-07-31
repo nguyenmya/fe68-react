@@ -1,0 +1,36 @@
+.header {
+    background-color:rgba(109, 35, 35, 0.096);
+    color: #fff;
+    position: fixed;
+    text-transform: uppercase;
+    padding: 10px 0;
+}
+.people{
+    margin-top: 100px;
+}
+
+
+ .image {
+    width: 32%;
+    height: 31px;
+    position: absolute;
+    top: 42%;
+    left: 37%;
+    transform: translateX(-50%);
+}
+
+.hh
+s{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.hh img {
+
+    width: 80px;
+    height: 50px;
+    margin: 5px 15px;
+    cursor: pointer;
+}

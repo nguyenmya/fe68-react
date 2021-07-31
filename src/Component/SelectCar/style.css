@@ -1,0 +1,18 @@
+p {
+  margin: 0 !important;
+}
+
+.bg-car {
+  background-color: #e5e5e5;
+}
+
+
+
+
+table, tr,td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-collapse: collapse;
+}
